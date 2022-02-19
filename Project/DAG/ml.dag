@@ -1,0 +1,7 @@
+JOB 1_preprocessing 1_preprocessing.sub
+JOB 2a_model_knn 2a_model_knn.sub
+JOB 2b_model_rf 2b_model_rf.sub
+JOB 2c_model_svc 2c_model_svc.sub
+JOB 3_res_eval 3_res_eval.sub
+PARENT 1_preprocessing CHILD 2a_model_knn 2b_model_rf 2c_model_svc 3_res_eval
+PARENT 2a_model_knn 2b_model_rf 2c_model_svc CHILD 3_res_eval

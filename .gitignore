@@ -1,0 +1,6 @@
+# exclude raw data and processed data
+*test.csv
+*train.csv
+
+# pkl files
+*.pkl

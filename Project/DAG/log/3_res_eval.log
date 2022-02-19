@@ -1,0 +1,113 @@
+000 (012.000.000) 2022-01-18 17:17:00 Job submitted from host: <172.31.84.174:9618?addrs=172.31.84.174-9618&alias=ip-172-31-84-174.ec2.internal&noUDP&sock=schedd_3717_219d>
+    DAG Node: 3_res_eval
+...
+040 (012.000.000) 2022-01-18 17:17:00 Started transferring input files
+	Transferring to host: <172.31.82.140:9618?addrs=172.31.82.140-9618&alias=ip-172-31-82-140.ec2.internal&noUDP&sock=slot2_3742_53d1_13>
+...
+040 (012.000.000) 2022-01-18 17:17:00 Finished transferring input files
+...
+001 (012.000.000) 2022-01-18 17:17:01 Job executing on host: <172.31.82.140:9618?addrs=172.31.82.140-9618&alias=ip-172-31-82-140.ec2.internal&noUDP&sock=startd_3709_a4db>
+...
+006 (012.000.000) 2022-01-18 17:17:11 Image size of job updated: 3571448
+	3488  -  MemoryUsage of job (MB)
+	3571448  -  ResidentSetSize of job (KB)
+...
+040 (012.000.000) 2022-01-18 17:18:02 Started transferring output files
+...
+040 (012.000.000) 2022-01-18 17:18:02 Finished transferring output files
+...
+005 (012.000.000) 2022-01-18 17:18:02 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:59, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:59, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	53  -  Run Bytes Sent By Job
+	1991  -  Run Bytes Received By Job
+	53  -  Total Bytes Sent By Job
+	1991  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       12        2   3091020 
+	   Memory (MB)          :     3488        1      3973 
+
+	Job terminated of its own accord at 2022-01-18T17:18:02Z with exit-code 0.
+...
+000 (018.000.000) 2022-01-18 17:45:49 Job submitted from host: <172.31.84.174:9618?addrs=172.31.84.174-9618&alias=ip-172-31-84-174.ec2.internal&noUDP&sock=schedd_3717_219d>
+    DAG Node: 3_res_eval
+...
+040 (018.000.000) 2022-01-18 17:45:49 Started transferring input files
+	Transferring to host: <172.31.82.140:9618?addrs=172.31.82.140-9618&alias=ip-172-31-82-140.ec2.internal&noUDP&sock=slot2_3742_53d1_18>
+...
+040 (018.000.000) 2022-01-18 17:45:49 Finished transferring input files
+...
+001 (018.000.000) 2022-01-18 17:45:50 Job executing on host: <172.31.82.140:9618?addrs=172.31.82.140-9618&alias=ip-172-31-82-140.ec2.internal&noUDP&sock=startd_3709_a4db>
+...
+006 (018.000.000) 2022-01-18 17:45:59 Image size of job updated: 2980752
+	2911  -  MemoryUsage of job (MB)
+	2980752  -  ResidentSetSize of job (KB)
+...
+006 (018.000.000) 2022-01-18 17:46:51 Image size of job updated: 3247676
+	2911  -  MemoryUsage of job (MB)
+	2980752  -  ResidentSetSize of job (KB)
+...
+040 (018.000.000) 2022-01-18 17:46:51 Started transferring output files
+...
+040 (018.000.000) 2022-01-18 17:46:51 Finished transferring output files
+...
+005 (018.000.000) 2022-01-18 17:46:51 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:59, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:59, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	79  -  Run Bytes Sent By Job
+	2054  -  Run Bytes Received By Job
+	79  -  Total Bytes Sent By Job
+	2054  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       12        3   3091020 
+	   Memory (MB)          :     2911        1      3973 
+
+	Job terminated of its own accord at 2022-01-18T17:46:51Z with exit-code 0.
+...
+000 (024.000.000) 2022-01-21 13:59:02 Job submitted from host: <172.31.84.174:9618?addrs=172.31.84.174-9618&alias=ip-172-31-84-174.ec2.internal&noUDP&sock=schedd_3156_54fc>
+    DAG Node: 3_res_eval
+...
+040 (024.000.000) 2022-01-21 13:59:02 Started transferring input files
+	Transferring to host: <172.31.85.213:9618?addrs=172.31.85.213-9618&alias=ip-172-31-85-213.ec2.internal&noUDP&sock=slot1_3729_2af1_4>
+...
+040 (024.000.000) 2022-01-21 13:59:02 Finished transferring input files
+...
+001 (024.000.000) 2022-01-21 13:59:03 Job executing on host: <172.31.85.213:9618?addrs=172.31.85.213-9618&alias=ip-172-31-85-213.ec2.internal&noUDP&sock=startd_3696_ba20>
+...
+006 (024.000.000) 2022-01-21 13:59:11 Image size of job updated: 1664320
+	1626  -  MemoryUsage of job (MB)
+	1664320  -  ResidentSetSize of job (KB)
+...
+006 (024.000.000) 2022-01-21 14:00:20 Image size of job updated: 4320320
+	1632  -  MemoryUsage of job (MB)
+	1670464  -  ResidentSetSize of job (KB)
+...
+040 (024.000.000) 2022-01-21 14:00:20 Started transferring output files
+...
+040 (024.000.000) 2022-01-21 14:00:20 Finished transferring output files
+...
+005 (024.000.000) 2022-01-21 14:00:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:10, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:10, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	79  -  Run Bytes Sent By Job
+	2054  -  Run Bytes Received By Job
+	79  -  Total Bytes Sent By Job
+	2054  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            :    17           3   3338318 
+	   Memory (MB)          :  1632           1      3973 
+
+	Job terminated of its own accord at 2022-01-21T14:00:20Z with exit-code 0.
+...

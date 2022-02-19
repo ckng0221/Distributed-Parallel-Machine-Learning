@@ -1,0 +1,4 @@
+SVC: accuracy on train set:0.9502
+--- 408.18132734298706 seconds --- 
+
+2022-01-21 13:58:46.651611: Done SVC

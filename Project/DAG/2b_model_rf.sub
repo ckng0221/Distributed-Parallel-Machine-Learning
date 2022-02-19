@@ -1,0 +1,9 @@
+# 2b_model_rf.sub -- machine learning model random forest
+
+executable              = ML/2b_model_rf.py
+log                     = log/2b_model_rf.log
+output                  = output/2b_model_rf_Echo.txt
+error                   = error/2b_model_rf_errors.txt
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue

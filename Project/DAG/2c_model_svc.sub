@@ -1,0 +1,9 @@
+# 2c_model_svc.sub -- machine learning model SVC
+
+executable              = ML/2c_model_svc.py
+log                     = log/2c_model_svc.log
+output                  = output/2c_model_svc_Echo.txt
+error                   = error/2c_model_svc_errors.txt
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue

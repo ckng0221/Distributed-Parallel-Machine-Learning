@@ -1,0 +1,3 @@
+/home/ec2-user/Shared
+2022-01-21 13:51:30.696296: Done preprocessing.
+--- 34.42684097599977 seconds --- 

@@ -1,0 +1,4 @@
+Model,Accuracy Score
+KNN,0.8676
+RF,0.8684
+SVC,0.9043

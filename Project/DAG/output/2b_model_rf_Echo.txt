@@ -1,0 +1,4 @@
+RF: accuracy on train set:0.9951
+--- 413.6936869621277 seconds --- 
+
+2022-01-21 13:58:52.112805: Done Random Forest

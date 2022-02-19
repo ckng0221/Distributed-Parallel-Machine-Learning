@@ -1,0 +1,9 @@
+# 1_preprocessing.sub -- preprocessing job
+
+executable              = ML/1_preprocessing.py
+log                     = log/1_preprocessing.log
+output                  = output/1_preprocessing_Echo.txt
+error                   = error/1_preprocessing_errors.txt
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue

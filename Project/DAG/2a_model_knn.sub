@@ -1,0 +1,9 @@
+# 2a_model_knn.sub -- machine learning model KNN
+
+executable              = ML/2a_model_knn.py
+log                     = log/2a_model_knn.log
+output                  = output/2a_model_knn_Echo.txt
+error                   = error/2a_model_knn_errors.txt
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue

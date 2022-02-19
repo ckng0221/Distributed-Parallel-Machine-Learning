@@ -1,0 +1,9 @@
+# 3_res_eval.sub -- Model evaluation
+
+executable              = ML/3_res_eval.py
+log                     = log/3_res_eval.log
+output                  = output/3_res_eval_Echo.txt
+error                   = error/3_res_eval_errors.txt
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue
